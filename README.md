@@ -1,4 +1,8 @@
 # Getting Started
+Click [here](https://aesthetic-pastelito-fdf1ce.netlify.app/) to check out the site
+
+### or
+
 Install the dependencies and run the project
 ```
 npm install
@@ -8,12 +12,6 @@ npm start
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This site was built alongside the "Learn HTML and CSS" course on Scrimba, an interactive learning platform that blends video tutorials with hands-on coding. Scrimba's unique screencast format made it easy to learn and put my new knowledge to the test.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I hope you like this site and if you have any questions about Glenview, click on my face on the card at the bottom of this site 😁
